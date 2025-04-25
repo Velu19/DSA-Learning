@@ -1,5 +1,6 @@
 package Strings;
 
+//Easy
 public class Remove_Outermost_Parentheses {
 
     //The solution I wrote.....
